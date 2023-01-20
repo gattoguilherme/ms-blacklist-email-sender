@@ -1,6 +1,6 @@
 # ms-blacklist-email-sender
 
-Boa tarde, seja bem-vindo!
+Seja bem-vindo!
 
   Este é um serviço feito para disparar emails incetivados via mensagens, existe a implementação tanto do consumer quanto do producer de um tópico utilizando Kafka.
   É necessário adicionar um email e uma senha de email válida dentro do arquivo Consts.cs, e verificar em qual url está rodando a sua instância do Kafka e adicionar 
